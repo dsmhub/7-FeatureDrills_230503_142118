@@ -1,6 +1,8 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/** string functions */
+
 /**
 shorthand character class - a shorter way of representing a specific set of characters in a regex pattern
 
@@ -68,6 +70,8 @@ public class jt3 {
           /pattern/s - javascript
 
          */
+
+        /** ...printf...*/
     }
 
 }
