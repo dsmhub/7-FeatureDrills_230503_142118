@@ -3,14 +3,12 @@ public class jt4 {
     /** loops */
 
     public static void main(String[] args) {
-        String word = "abcd";
         int[] arr1 = {1, 2, 3, 4};
         char[] arr2 = {'a', 'b', 'c', 'd'};
         String[] arr3= {"ab", "bc", "cd", "da"};
         Object[] arr4 = {1, 'b', "cd", "da"};
 
         int account = 0;
-
 
         for (int i = 0; i < arr1.length; i++) {
             //System.out.println(arr1[i]);
